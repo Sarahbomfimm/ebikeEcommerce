@@ -1,0 +1,17 @@
+<svg preserveAspectRatio="none" overflow="visible" style="display: block;" width="150" height="60" viewBox="0 0 150 60" fill="none" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+<g id="Rectangle 3">
+<use xlink:href="#stroke0_0_16" fill="#D9D9D9"/>
+<use xlink:href="#stroke0_0_16" fill="url(#paint0_radial_0_16)"/>
+<mask id="stroke1_0_16" fill="white">
+<path d="M0 10C0 4.47715 4.47715 0 10 0H140C145.523 0 150 4.47715 150 10V50C150 55.5228 145.523 60 140 60H10C4.47715 60 0 55.5228 0 50V10Z"/>
+</mask>
+<path d="M10 60H140C145.523 60 150 55.5228 150 50V10C150 4.47715 145.523 0 140 0H10C4.47715 0 0 4.47715 0 10V50C0 55.5228 4.47715 60 10 60Z" stroke="black" mask="url(#stroke1_0_16)"/>
+</g>
+<defs>
+<radialGradient id="paint0_radial_0_16" cx="0" cy="0" r="1" gradientTransform="matrix(150 60 -586.43 11.7733 0 0)" gradientUnits="userSpaceOnUse">
+<stop stop-color="#9AE0D3"/>
+<stop offset="0.605" stop-color="#43A678"/>
+</radialGradient>
+<path id="stroke0_0_16" d="M0 10C0 4.47715 4.47715 0 10 0H140C145.523 0 150 4.47715 150 10V50C150 55.5228 145.523 60 140 60H10C4.47715 60 0 55.5228 0 50V10Z"/>
+</defs>
+</svg>
